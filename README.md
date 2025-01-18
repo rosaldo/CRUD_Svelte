@@ -83,12 +83,11 @@ Uma aplicação web progressiva (PWA) para gerenciamento de contatos desenvolvid
 
 #### Como Desinstalar
 **No Chrome/Edge:**
-1. Clique nos três pontos (⋮) no canto superior direito
-2. Vá em "Apps"
-3. Encontre "POC CRUD Agenda"
-4. Clique nos três pontos ao lado do app
-5. Selecione "Remover da Chrome"
-6. Confirme a desinstalação
+1. Vá em <a href="chrome://apps/">chrome://apps/</a>
+2. Encontre "POC CRUD Agenda"
+3. Clique nos três pontos ao lado do app
+4. Selecione "Remover da Chrome"
+5. Confirme a desinstalação
 
 **No Android:**
 1. Encontre o ícone do app na tela inicial ou gaveta de apps
