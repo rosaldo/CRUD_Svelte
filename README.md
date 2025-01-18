@@ -1,6 +1,40 @@
 # POC CRUD Agenda
 
+<div align="center">
+  <img src="static/icon-192.png" alt="Logo da Agenda" width="192" height="192">
+</div>
+
 Uma aplicação web progressiva (PWA) para gerenciamento de contatos desenvolvida com SvelteKit.
+
+## Screenshots
+
+<div align="center">
+  <h3>Tela Principal</h3>
+  <p><em>Grid de contatos com busca e menu de configurações</em></p>
+  <img src="screenshots/desktop.png" alt="Tela Desktop">
+  <img src="screenshots/tablet.png" alt="Tela Tablet">
+  <img src="screenshots/mobile.png" alt="Tela Mobile">
+
+  <h3>Filtro de Busca</h3>
+  <p><em>Filtro de busca em tempo real</em></p>
+  <img src="screenshots/filter.png" alt="Filtro">
+  
+  <h3>Menu de Configurações</h3>
+  <p><em>Opções de importação, exportação e instalação do app</em></p>
+  <img src="screenshots/menu.png" alt="Configurações">
+
+  <h3>CREATE</h3>
+  <p><em>Adição de contatos com validações em tempo real</em></p>
+  <img src="screenshots/create.png" alt="Create">
+
+  <h3>UPDATE</h3>
+  <p><em>Edição de contatos existentes com validações em tempo real</em></p>
+  <img src="screenshots/update.png" alt="Update">
+
+  <h3>DELETE</h3>
+  <p><em>Exclusão de contatos com confirmação em modal</em></p>
+  <img src="screenshots/delete.png" alt="Delete">
+</div>
 
 ## Funcionalidades
 
